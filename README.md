@@ -1,3 +1,4 @@
 # hello-world
 A test repository to get started
-Hello
+
+I am a student who wishes to learn some practical programming
